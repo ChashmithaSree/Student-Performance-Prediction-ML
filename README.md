@@ -73,7 +73,7 @@ Pass
 
 The project includes a scatter plot showing the relationship between study hours and attendance.
 
----
+<img width="562" height="455" alt="download" src="https://github.com/user-attachments/assets/3eb2c9db-301d-4018-9998-9fd76b808361" />
 
 
 ## 💡 Future Improvements
@@ -84,7 +84,7 @@ The project includes a scatter plot showing the relationship between study hours
 * Deploy as a web application
 * Create a student performance dashboard
 
----
+
 
 ## 👩‍💻 Author
 
