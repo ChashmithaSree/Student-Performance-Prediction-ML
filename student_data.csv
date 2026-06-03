@@ -1,0 +1,16 @@
+StudyHours,Attendance,AssignmentsCompleted,Result
+2,60,3,Fail
+3,65,4,Fail
+4,70,5,Fail
+5,75,6,Pass
+6,80,7,Pass
+7,85,8,Pass
+8,90,9,Pass
+1,50,2,Fail
+9,95,10,Pass
+4,68,5,Fail
+6,82,7,Pass
+3,62,4,Fail
+8,88,9,Pass
+5,78,6,Pass
+2,55,3,Fail
