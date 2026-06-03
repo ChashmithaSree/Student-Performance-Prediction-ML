@@ -56,6 +56,7 @@ Why Decision Trees?
 
 Accuracy Achieved: **100%**
 
+
 ### Example Prediction
 
 Input:
